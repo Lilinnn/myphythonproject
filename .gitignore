@@ -1,0 +1,6 @@
+# tell gitignore to ingore what's going on in python
+venv/
+# you don't want your directory in your repository
+.idea/
+#ignore Mac specific files
+.DS_Store
